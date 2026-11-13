@@ -31,7 +31,7 @@ A one-minute walkthrough: [demo.mp4](images/demo.mp4). The ▶ Demo button in th
 
 ## Example file
 
-[`files/example_Mia-heart_on-base_two-colours.3mf`](files/example_Mia-heart_on-base_two-colours.3mf): "Mia♥" on a base, 239 × 29 × 91 mm, two colours (base and letters).
+[`files/example_Mia-heart_on-base_two-colours.3mf`](files/example_Mia-heart_on-base_two-colours.3mf): "Mia♥" on a base, 242 × 29 × 86 mm, two colours (base and letters).
 
 ## Offline version
 
