@@ -41,6 +41,10 @@ A one-minute walkthrough: [demo.mp4](images/demo.mp4). The ▶ Demo button in th
 
 Silk or shiny PLA · 0.2 mm layers · 2 walls · 10–15% infill · no supports.
 
+## Privacy
+
+The website counts anonymous visits and downloads with [GoatCounter](https://www.goatcounter.com/). It uses no cookies and collects no personal data. The offline file sends nothing, and nothing you type or make is ever uploaded.
+
 ## Fonts
 
 Lobster, Pacifico, Kaushan Script, Titan One, Cherry Bomb One, Archivo Black, Secular One, Varela Round and Suez One (SIL Open Font License 1.1), Luckiest Guy and Chewy (Apache 2.0), Ubuntu (Ubuntu Font Licence).
