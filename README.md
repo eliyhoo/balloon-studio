@@ -41,6 +41,8 @@ A one-minute walkthrough: [demo.mp4](images/demo.mp4). The ▶ Demo button in th
 
 Silk or shiny PLA · 0.2 mm layers · 2 walls · 10–15% infill · no supports.
 
+Want it even smoother? In Bambu Studio, right-click the model and use **Subdivision mesh** before slicing. It helps most on pieces that print lying flat, like cake toppers.
+
 ## Privacy
 
 The website counts anonymous visits and downloads with [GoatCounter](https://www.goatcounter.com/). It uses no cookies and collects no personal data. The offline file sends nothing, and nothing you type or make is ever uploaded.
